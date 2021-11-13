@@ -10,7 +10,9 @@
 - ⚡ I am the co-founder of [e-playout](https://www.linkedin.com/company/e-playout/) and [CORPLAYS](https://www.linkedin.com/company/corplays/)
 
 ## Projects
-- Reactivities -
+- Reactivities | .NET 5 and React | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/Reactivities)
+- DatingApp | .NET Core and Angular | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/DatingApp)
+- Sociality-Project | Python | Interview Project | [Public GitHub Repo](https://github.com/Hryurt/sociality-project)
 
 ## Technologies & Tools
 
