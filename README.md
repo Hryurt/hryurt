@@ -1,6 +1,6 @@
 # Hello, World! I am Hasan Ramazan Yurt.  👋
 
-## Full Stack Developer | M.Sc. Student
+## Full Stack Developer | M.Sc. Student | Entrepreneur
 
 - 🏫 I am currently studying at Technical University of Munich.
 - 🎓 I graduated from Bogazici University at July, 2021.
@@ -10,9 +10,17 @@
 - ⚡ I am the co-founder of [e-playout](https://www.linkedin.com/company/e-playout/) and [CORPLAYS](https://www.linkedin.com/company/corplays/)
 
 ## Projects
+- e-playout an esports startup | .NET 3.1 (Upgraded to .NET 5) + React | Project Owner | Private Repo | For detailed [information](https://esportimes.com/tr/turk-yapimi-olan-yeni-espor-platformu-e-playout/)
+- Platon an academic collaboration platform | Django + React + Kotlin | University-based Project | [Public GitHub Repo](https://github.com/bounswe/bounswe2020group7)
+- Tournament Management App | .NET 3.1 (Upgraded to .NET 6) + JavaScript | Company-based Project | [Public GitHub Repo](https://github.com/Hryurt/TournamentApp)
+- Investigating Stereotypes in Movies using Deep Learning | Python | Graduation Project | For detailed [information](https://www.cmpe.boun.edu.tr/content/investigating-bias-and-discrimination-movies-using-deep-learning)
 - Reactivities | .NET 5 and React | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/Reactivities)
+- Blazor Admin Panel | .NET 5 (Upgraded to .NET 6) | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/BlazorAdminPanel)
 - DatingApp | .NET Core and Angular | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/DatingApp)
 - Sociality-Project | Python | Interview Project | [Public GitHub Repo](https://github.com/Hryurt/sociality-project)
+- CmpeCoin Blockchain Currency App | Python + RabbitMQ | University-based Project | Private Repo
+- Pen Test App | .NET 5 Blazor Server App | Company-based Project | Private Repo
+
 
 ## Technologies & Tools
 
@@ -40,8 +48,8 @@
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hryurt&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hryurt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hryurt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
